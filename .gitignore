@@ -1,0 +1,10 @@
+# ignore input files
+/inputs/*
+
+*.pyc
+*.pyo
+__pycache__/
+*.log
+venv/
+.env/
+.vscode/
